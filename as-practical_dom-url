@@ -1,0 +1,1 @@
+utag.link({"dom.url": "https://ecommerce.tealiumdemo.com/checkout/onepage/success/", "tealium_event": "order_confirmation_view", "page_name": "cart success", "order_id": "12345", "order_total": "1", "order_subtotal": "1"});
